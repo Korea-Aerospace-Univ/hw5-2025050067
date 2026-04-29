@@ -9,7 +9,7 @@ int main()
         for(int b=2;b*B<cost;b+=2){
             
             for(int c=1;c*C<cost;c++){
-                if(a!=0&&b!=0&&c!=0){
+                
                     
                         if(c<a||c<b){
                            
@@ -20,7 +20,7 @@ int main()
                         }
                         
                     
-                }
+                
             }
         }
     }
